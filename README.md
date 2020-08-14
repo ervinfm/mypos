@@ -1,3 +1,4 @@
+<h1>POINT OF SALES <h1>
 
 Aplikasi Point Of Sales Menggunakan Framework Codeigniter 3 dan Tamplate Admin Lte
 
